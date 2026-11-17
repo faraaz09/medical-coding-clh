@@ -1,0 +1,201 @@
+id,clinical_note,ground_truth_disease,ground_truth_icd
+1,"Patient presents with persistent polyuria, polydipsia, and fatigue. Fasting blood glucose is 185 mg/dL with HbA1c of 8.2%. Diagnosed with non-insulin-dependent Type 2 Diabetes Mellitus.",Type 2 Diabetes Mellitus,E11.9
+2,A 54-year-old male with a history of obesity presents for routine follow-up. Lab work reveals elevated fasting blood sugar (162 mg/dL) and HbA1c of 7.8%. Started on Metformin for Type 2 Diabetes Mellitus.,Type 2 Diabetes Mellitus,E11.9
+3,"Female patient reports gradual weight gain, blurred vision, and increased thirst over 3 months. Random blood glucose 210 mg/dL. Impression: Type 2 Diabetes Mellitus without acute complications.",Type 2 Diabetes Mellitus,E11.9
+4,60-year-old female complaining of nocturnal frequency and dry mouth. Blood work shows persistent hyperglycemia (HbA1c 8.5%). Diagnosis: Type 2 Diabetes Mellitus.,Type 2 Diabetes Mellitus,E11.9
+5,Chief Complaint: Increased appetite and frequent urination. Physical exam unremarkable. Labs show blood glucose 195 mg/dL. Clinical Diagnosis: Type 2 Diabetes Mellitus.,Type 2 Diabetes Mellitus,E11.9
+6,50-year-old male presenting with weakness and tingling in feet. Elevated blood fasting glucose 175 mg/dL. Impression: Type 2 Diabetes Mellitus.,Type 2 Diabetes Mellitus,E11.9
+7,"Patient seen for medication refill. Blood pressure normal, glucose elevated at 168 mg/dL. Assessment: Type 2 Diabetes Mellitus managed with lifestyle and oral agents.",Type 2 Diabetes Mellitus,E11.9
+8,Patient presenting for annual physical. Routine lab panel shows fasting blood glucose 190 mg/dL and HbA1c 8.0%. Final Diagnosis: Type 2 Diabetes Mellitus.,Type 2 Diabetes Mellitus,E11.9
+9,A 48-year-old male presents with mild occipital headache. Vital signs show BP 152/94 mmHg on multiple readings. No secondary etiology identified. Assessment: Essential (Primary) Hypertension.,Essential (Primary) Hypertension,I10
+10,Patient present for check-up. Blood pressure reading is 148/92 mmHg. Routine workup rules out secondary causes. Diagnosed with Primary Essential Hypertension.,Essential (Primary) Hypertension,I10
+11,58-year-old female with routine BP measurement of 156/96 mmHg. No end-organ damage noted on ECG or renal panel. Impression: Essential (Primary) Hypertension.,Essential (Primary) Hypertension,I10
+12,Asymptomatic 45-year-old male found to have elevated blood pressure (150/95 mmHg) during employee health screen. Diagnosis: Essential (Primary) Hypertension.,Essential (Primary) Hypertension,I10
+13,Patient returns for BP check. Readings consistently averaging 146/90 mmHg. Lab work normal. Plan: Initiate anti-hypertensive therapy for Essential (Primary) Hypertension.,Essential (Primary) Hypertension,I10
+14,62-year-old male presenting with intermittent lightheadedness. Blood pressure measured at 160/98 mmHg. Diagnosis: Essential (Primary) Hypertension.,Essential (Primary) Hypertension,I10
+15,Routine visit for 51-year-old female. BP 154/92 mmHg. No signs of secondary hypertension. Assessment: Primary Essential Hypertension.,Essential (Primary) Hypertension,I10
+16,Patient with elevated clinic blood pressure (150/94 mmHg). Ambulatory monitor confirms baseline hypertension. Impression: Essential (Primary) Hypertension.,Essential (Primary) Hypertension,I10
+17,"Patient presents with fever, productive cough with yellow sputum, right lower lobe crackles, and chest X-ray showing right lower lobe infiltrate. Diagnosis: Pneumonia, Unspecified Organism.","Pneumonia, Unspecified Organism",J18.9
+18,"68-year-old male complaining of shortness of breath, chills, and purulent sputum. Chest radiograph demonstrates consolidation. Impression: Acute Pneumonia, Unspecified Organism.","Pneumonia, Unspecified Organism",J18.9
+19,"Female patient with high fever (38.9 C), pleuritic chest pain, and coarse crackles on auscultation. Diagnosed with Pneumonia, Unspecified Organism.","Pneumonia, Unspecified Organism",J18.9
+20,"72-year-old presenting with dyspnea, fever, and bronchial breath sounds. CXR confirms pulmonary infiltrate. Assessment: Pneumonia, Unspecified Organism.","Pneumonia, Unspecified Organism",J18.9
+21,"Patient presenting with cough, fever of 102 F, and purulent sputum production. Lung sounds reveal focal rhonchi. Impression: Pneumonia, Unspecified Organism.","Pneumonia, Unspecified Organism",J18.9
+22,"Male patient complaining of fever, cough, and left lung base consolidation on imaging. Diagnosis: Pneumonia, Unspecified Organism.","Pneumonia, Unspecified Organism",J18.9
+23,"Patient with chills, fever, productive cough, and infiltrate seen on chest imaging. Plan: Empiric antibiotics for Pneumonia, Unspecified Organism.","Pneumonia, Unspecified Organism",J18.9
+24,"A 65-year-old female with acute onset respiratory distress, fever, and bibasilar crackles. Imaging shows opacity consistent with Pneumonia, Unspecified Organism.","Pneumonia, Unspecified Organism",J18.9
+25,"22-year-old female presents with acute shortness of breath, bilateral expiratory wheezing, and chest tightness precipitated by cold air. Diagnosis: Asthma, Unspecified.","Asthma, Unspecified",J45.909
+26,"Male patient with recurrent episodes of coughing, shortness of breath, and wheezing, responsive to inhaled albuterol. Impression: Asthma, Unspecified.","Asthma, Unspecified",J45.909
+27,"Young adult complaining of nocturnal coughing and dyspnea after mild exercise. Spirometry shows reversible airway obstruction. Assessment: Asthma, Unspecified.","Asthma, Unspecified",J45.909
+28,"Patient presenting to clinic with wheezing and tightness in chest. No chronic tobacco history. Reversible bronchospasm confirmed. Diagnosis: Asthma, Unspecified.","Asthma, Unspecified",J45.909
+29,"19-year-old female reporting intermittent shortness of breath and wheezing triggered by dust. Symptoms improve with bronchodilators. Diagnosis: Asthma, Unspecified.","Asthma, Unspecified",J45.909
+30,"Patient presenting with exercise-induced wheezing and cough. Spirometry shows positive bronchodilator response. Diagnosis: Asthma, Unspecified.","Asthma, Unspecified",J45.909
+31,"Female patient with history of seasonal allergies now complaining of chest tightness and cough worse at night. Impression: Asthma, Unspecified.","Asthma, Unspecified",J45.909
+32,"Male patient with episodic dyspnea and diffuse expiratory wheezing. Reversible airflow limitation documented. Final Diagnosis: Asthma, Unspecified.","Asthma, Unspecified",J45.909
+33,"66-year-old heavy smoker presents with chronic cough, progressive exertional dyspnea, hyperinflated lungs on CXR, and non-reversible airflow obstruction. Diagnosis: Chronic Obstructive Pulmonary Disease (COPD).",Chronic Obstructive Pulmonary Disease (COPD),J44.9
+34,Patient with a 40 pack-year smoking history complaining of daily sputum production and exertional dyspnea. Spirometry FEV1/FVC < 0.70. Impression: Chronic Obstructive Pulmonary Disease (COPD).,Chronic Obstructive Pulmonary Disease (COPD),J44.9
+35,"70-year-old male with long-standing dyspnea on exertion, barrel chest, and distant breath sounds. Assessment: Chronic Obstructive Pulmonary Disease (COPD).",Chronic Obstructive Pulmonary Disease (COPD),J44.9
+36,Female smoker presenting with persistent dry-to-productive morning cough and dyspnea when climbing stairs. Spirometry confirms irreversible obstructive lung disease. Diagnosis: COPD.,Chronic Obstructive Pulmonary Disease (COPD),J44.9
+37,"65-year-old presenting with progressive shortness of breath over years, long history of tobacco use, and reduced breath sounds bilaterally. Diagnosis: Chronic Obstructive Pulmonary Disease (COPD).",Chronic Obstructive Pulmonary Disease (COPD),J44.9
+38,Patient with chronic cough and exertional dyspnea. Chest radiograph shows flattened diaphragms. Diagnosis: Chronic Obstructive Pulmonary Disease (COPD).,Chronic Obstructive Pulmonary Disease (COPD),J44.9
+39,Male patient with history of emphysema and chronic bronchitis presenting with dyspnea. Impression: Chronic Obstructive Pulmonary Disease (COPD).,Chronic Obstructive Pulmonary Disease (COPD),J44.9
+40,"72-year-old lifelong smoker with wheezing, prolonged expiration, and FEV1 reduction unresponsive to bronchodilators. Assessment: Chronic Obstructive Pulmonary Disease (COPD).",Chronic Obstructive Pulmonary Disease (COPD),J44.9
+41,"A 45-year-old female presents with non-specific musculoskeletal chest tightness. Serial troponins negative, ECG normal. Impression: Chest Pain, Unspecified.","Chest Pain, Unspecified",R07.9
+42,"Patient presenting with sharp atypical chest pain worsened by movement. Cardiac enzymes and ECG rule out acute coronary syndrome. Assessment: Chest Pain, Unspecified.","Chest Pain, Unspecified",R07.9
+43,"50-year-old male presenting to ED with retrosternal chest pain. Cardiac workup normal. Discharged with diagnosis: Chest Pain, Unspecified.","Chest Pain, Unspecified",R07.9
+44,"Female patient complaining of episodic thoracic discomfort. Workup negative for ischemic changes or pulmonary embolus. Impression: Chest Pain, Unspecified.","Chest Pain, Unspecified",R07.9
+45,"Patient with brief, sharp precordial pain without radiation or diaphoresis. Normal ECG and cardiac markers. Diagnosis: Chest Pain, Unspecified.","Chest Pain, Unspecified",R07.9
+46,"38-year-old male reporting left-sided chest ache. Physical exam and ECG unrevealing. Final Assessment: Chest Pain, Unspecified.","Chest Pain, Unspecified",R07.9
+47,"Patient complaining of chest wall tenderness and vague discomfort. Troponin I negative. Impression: Chest Pain, Unspecified.","Chest Pain, Unspecified",R07.9
+48,"Female presenting with mid-sternal chest pressure. Repeated ECGs demonstrate sinus rhythm without ST changes. Diagnosis: Chest Pain, Unspecified.","Chest Pain, Unspecified",R07.9
+49,"58-year-old male presents with severe crushing sub-sternal chest pain radiating to the left arm, diaphoresis, ST-elevation on ECG, and elevated Troponin T (4.2 ng/mL). Diagnosis: Acute Myocardial Infarction (Heart Attack).",Acute Myocardial Infarction (Heart Attack),I21.9
+50,"Patient presenting with acute chest pressure, dyspnea, nausea, and markedly elevated cardiac biomarkers (Troponin I 8.5 ng/mL). ECG shows acute ST segment elevation. Assessment: Acute Myocardial Infarction (Heart Attack).",Acute Myocardial Infarction (Heart Attack),I21.9
+51,"62-year-old female with sudden onset retrosternal heaviness, cold sweats, and elevated troponin levels. Diagnosed with Acute Myocardial Infarction (Heart Attack).",Acute Myocardial Infarction (Heart Attack),I21.9
+52,Male patient arriving via EMS with crushing retrosternal pain and ECG changes consistent with acute myocardial ischemia. Cardiac enzymes positive. Diagnosis: Acute Myocardial Infarction.,Acute Myocardial Infarction (Heart Attack),I21.9
+53,"65-year-old patient presenting with acute substernal chest discomfort radiating to jaw, associated with elevated serum troponin. Impression: Acute Myocardial Infarction (Heart Attack).",Acute Myocardial Infarction (Heart Attack),I21.9
+54,"Female presenting with acute coronary syndrome symptoms, diaphoresis, and positive cardiac troponin elevation. Diagnosis: Acute Myocardial Infarction (Heart Attack).",Acute Myocardial Infarction (Heart Attack),I21.9
+55,"Male with acute chest pain, dyspnea, and diagnostic ECG ST-segment elevation. Transferred to cath lab for Acute Myocardial Infarction (Heart Attack).",Acute Myocardial Infarction (Heart Attack),I21.9
+56,"Patient presenting with sudden acute chest distress, nausea, and troponin rise > 99th percentile. Assessment: Acute Myocardial Infarction (Heart Attack).",Acute Myocardial Infarction (Heart Attack),I21.9
+57,"74-year-old patient presents with bilateral lower extremity pitting edema, orthopnea, paroxysmal nocturnal dyspnea, and elevated BNP (1200 pg/mL). Diagnosis: Heart Failure, Unspecified.","Heart Failure, Unspecified",I50.9
+58,"Female patient with dyspnea on exertion, jugular venous distention, bibasilar rales, and elevated BNP. Impression: Congestive Heart Failure, Unspecified.","Heart Failure, Unspecified",I50.9
+59,"69-year-old male presenting with shortness of breath when lying flat, leg swelling, and cardiomegaly on CXR. Assessment: Heart Failure, Unspecified.","Heart Failure, Unspecified",I50.9
+60,"Patient complaining of progressive exertional shortness of breath, 10 lb weight gain, and bilateral leg edema. Diagnosis: Heart Failure, Unspecified.","Heart Failure, Unspecified",I50.9
+61,"78-year-old female with shortness of breath, pulmonary venous congestion on CXR, and high serum BNP. Diagnosis: Heart Failure, Unspecified.","Heart Failure, Unspecified",I50.9
+62,"Male patient with shortness of breath, peripheral edema, and S3 gallop on auscultation. Impression: Heart Failure, Unspecified.","Heart Failure, Unspecified",I50.9
+63,"Patient presenting with worsening dyspnea, orthopnea, and lower leg edema. Echocardiogram demonstrates decreased systolic function. Diagnosis: Heart Failure, Unspecified.","Heart Failure, Unspecified",I50.9
+64,"71-year-old presenting with dyspnea, fatigue, fluid overload, and elevated BNP level. Assessment: Heart Failure, Unspecified.","Heart Failure, Unspecified",I50.9
+65,"Patient presents with sudden oliguria, facial swelling, and abrupt rise in serum creatinine from 1.0 to 3.8 mg/dL over 48 hours. Diagnosis: Acute Kidney Failure, Unspecified.","Acute Kidney Failure, Unspecified",N17.9
+66,"72-year-old male with acute elevation of BUN and serum creatinine following dehydration. Urine output significantly reduced. Impression: Acute Kidney Failure, Unspecified.","Acute Kidney Failure, Unspecified",N17.9
+67,"Female patient presenting with sudden decline in renal function, creatinine 4.1 mg/dL, hyperkalemia. Assessment: Acute Kidney Failure, Unspecified.","Acute Kidney Failure, Unspecified",N17.9
+68,"Patient admitted with acute oliguric state and rapid elevation of serum creatinine. Diagnosis: Acute Kidney Failure, Unspecified.","Acute Kidney Failure, Unspecified",N17.9
+69,"64-year-old male with sudden azotemia, creatinine jump to 3.2 mg/dL. Renal ultrasound rules out chronic structural disease. Impression: Acute Kidney Failure, Unspecified.","Acute Kidney Failure, Unspecified",N17.9
+70,"Patient presenting with acute drop in urine output, nausea, and elevated BUN/creatinine ratio. Diagnosis: Acute Kidney Failure, Unspecified.","Acute Kidney Failure, Unspecified",N17.9
+71,"Female presenting with acute renal dysfunction secondary to severe hypovolemia. Creatinine 3.5 mg/dL. Assessment: Acute Kidney Failure, Unspecified.","Acute Kidney Failure, Unspecified",N17.9
+72,"Male patient with acute onset oliguria, rising serum creatinine, and electrolyte imbalances. Final Diagnosis: Acute Kidney Failure, Unspecified.","Acute Kidney Failure, Unspecified",N17.9
+73,"28-year-old female presents with dysuria, urinary frequency, urgency, and suprapubic discomfort. Urinalysis shows positive leukocyte esterase and nitrites. Diagnosis: Urinary Tract Infection (UTI).",Urinary Tract Infection (UTI),N39.0
+74,"Female patient complaining of painful urination, cloudy urine, and lower abdominal cramping. Urinalysis confirms bacteriuria. Impression: Urinary Tract Infection (UTI).",Urinary Tract Infection (UTI),N39.0
+75,"65-year-old female presenting with dysuria, urgency, and low-grade fever. Urine dipstick positive for WBCs and nitrites. Assessment: Urinary Tract Infection (UTI).",Urinary Tract Infection (UTI),N39.0
+76,Patient presenting with burning sensation on urination and frequency. Urine culture positive for E. coli. Diagnosis: Urinary Tract Infection (UTI).,Urinary Tract Infection (UTI),N39.0
+77,Young female with acute dysuria and suprapubic tenderness. Urinalysis reveals pyuria and nitrites. Impression: Urinary Tract Infection (UTI).,Urinary Tract Infection (UTI),N39.0
+78,"Patient complaining of frequent, painful urination and cloudy urine. Diagnosis: Urinary Tract Infection (UTI).",Urinary Tract Infection (UTI),N39.0
+79,"Female presenting with acute bladder discomfort, dysuria, and microscopic hematuria/pyuria. Assessment: Urinary Tract Infection (UTI).",Urinary Tract Infection (UTI),N39.0
+80,"70-year-old female presenting with new onset urinary frequency, dysuria, and positive urine leukocyte esterase. Final Diagnosis: Urinary Tract Infection (UTI).",Urinary Tract Infection (UTI),N39.0
+81,"35-year-old male reports persistent depressed mood, anhedonia, insomnia, weight loss, and feelings of worthlessness for over 6 weeks. PHQ-9 score 18. Diagnosis: Major Depressive Disorder.",Major Depressive Disorder,F32.9
+82,"Female patient presenting with depressed affect, loss of interest in activities, fatigue, and difficulty concentrating for 2 months. Impression: Major Depressive Disorder.",Major Depressive Disorder,F32.9
+83,"42-year-old female complaining of persistent sadness, crying spells, and insomnia lasting several months. Assessment: Major Depressive Disorder.",Major Depressive Disorder,F32.9
+84,"Patient presenting with persistent depressed mood, suicidal ideation without intent, and profound apathy. PHQ-9 score 20. Diagnosis: Major Depressive Disorder.",Major Depressive Disorder,F32.9
+85,"Male patient reporting severe low mood, fatigue, sleep disturbance, and hopelessness for > 1 month. Diagnosis: Major Depressive Disorder.",Major Depressive Disorder,F32.9
+86,"Female presenting with loss of appetite, persistent depressed mood, and executive dysfunction. Impression: Major Depressive Disorder.",Major Depressive Disorder,F32.9
+87,"30-year-old patient reporting chronic sadness, inability to feel pleasure, and psychomotor slowing. Diagnosis: Major Depressive Disorder.",Major Depressive Disorder,F32.9
+88,Patient presenting with severe depressive symptoms impacting daily functioning for 8 weeks. Assessment: Major Depressive Disorder.,Major Depressive Disorder,F32.9
+89,"30-year-old female presents with excessive, uncontrollable worry regarding health, work, and finances for 8 months, accompanied by muscle tension and restlessness. GAD-7 score 16. Diagnosis: Generalized Anxiety Disorder.",Generalized Anxiety Disorder,F41.1
+90,"Patient complaining of persistent nervousness, irritability, muscle tension, and insomnia lasting over 6 months. Assessment: Generalized Anxiety Disorder.",Generalized Anxiety Disorder,F41.1
+91,"28-year-old male with persistent excessive anxiety about everyday events, difficulty sleeping, and hypervigilance. Impression: Generalized Anxiety Disorder.",Generalized Anxiety Disorder,F41.1
+92,"Female patient reporting chronic worry, fatigue, restless legs, and muscle soreness without panic attacks. GAD-7 score 15. Diagnosis: Generalized Anxiety Disorder.",Generalized Anxiety Disorder,F41.1
+93,"Patient presenting with persistent diffuse apprehension, autonomic arousal, and irritability present daily for > 6 months. Diagnosis: Generalized Anxiety Disorder.",Generalized Anxiety Disorder,F41.1
+94,"34-year-old female complaining of excessive anxiety, continuous feeling of edge, and concentration difficulties. Impression: Generalized Anxiety Disorder.",Generalized Anxiety Disorder,F41.1
+95,"Male patient presenting with chronic uncontrollable worry, muscle tension, and sleep disruption. Diagnosis: Generalized Anxiety Disorder.",Generalized Anxiety Disorder,F41.1
+96,Patient presenting with pervasive anxiety and worry regarding multiple life domains for 7 months. Assessment: Generalized Anxiety Disorder.,Generalized Anxiety Disorder,F41.1
+97,"45-year-old male presents with postprandial retrosternal burning sensation (heartburn) and acid regurgitation, aggravated by lying down and relieved by antacids. Diagnosis: Gastro-esophageal Reflux Disease (GERD).",Gastro-esophageal Reflux Disease (GERD),K21.9
+98,"Patient complaining of frequent acid reflux, chest burning after meals, and nocturnal regurgitation for 6 months. Impression: Gastro-esophageal Reflux Disease (GERD).",Gastro-esophageal Reflux Disease (GERD),K21.9
+99,Female patient presenting with chronic pyrosis and acid taste in mouth after eating spicy foods. Assessment: Gastro-esophageal Reflux Disease (GERD).,Gastro-esophageal Reflux Disease (GERD),K21.9
+100,52-year-old male with epigastric/substernal burning pain improved with PPI therapy. Endoscopy shows mild esophagitis. Diagnosis: Gastro-esophageal Reflux Disease (GERD).,Gastro-esophageal Reflux Disease (GERD),K21.9
+101,"Patient presenting with symptoms of acid reflux, heartburn, and throat irritation. Impression: Gastro-esophageal Reflux Disease (GERD).",Gastro-esophageal Reflux Disease (GERD),K21.9
+102,39-year-old female complaining of frequent heartburn and dysphagia to solid foods after large meals. Assessment: Gastro-esophageal Reflux Disease (GERD).,Gastro-esophageal Reflux Disease (GERD),K21.9
+103,Male patient with chronic retrosternal chest burning exacerbated by recumbency. Diagnosis: Gastro-esophageal Reflux Disease (GERD).,Gastro-esophageal Reflux Disease (GERD),K21.9
+104,"Patient with recurrent acid regurgitation, pyrosis, and response to H2 blockers. Final Diagnosis: Gastro-esophageal Reflux Disease (GERD).",Gastro-esophageal Reflux Disease (GERD),K21.9
+105,"19-year-old male presents with periumbilical pain radiating to the right lower quadrant (RLQ), nausea, low-grade fever, McBurney point tenderness, and RLQ rebound. Diagnosis: Acute Appendicitis.",Acute Appendicitis,K35.80
+106,"Patient presenting with sudden RLQ abdominal pain, fever (101 F), leukocytosis (WBC 16.5k), and positive Rovsing sign. Abdominal CT confirms appendiceal inflammation. Impression: Acute Appendicitis.",Acute Appendicitis,K35.80
+107,"24-year-old female with acute onset periumbilical abdominal pain shifting to the right iliac fossa, vomiting, and local guarding. Assessment: Acute Appendicitis.",Acute Appendicitis,K35.80
+108,"Young male presenting with anorexia, nausea, fever, and sharp RLQ pain. US demonstrates dilated non-compressible appendix. Diagnosis: Acute Appendicitis.",Acute Appendicitis,K35.80
+109,"Patient presenting to ED with acute right lower quadrant abdominal pain, rebound tenderness, and elevated inflammatory markers. Impression: Acute Appendicitis.",Acute Appendicitis,K35.80
+110,"16-year-old female with abdominal pain migrating to McBurney's point, associated with fever and anorexia. Diagnosis: Acute Appendicitis.",Acute Appendicitis,K35.80
+111,"Male patient presenting with RLQ guarding, tenderness, leukocytosis, and CT imaging confirming appendix wall thickening. Assessment: Acute Appendicitis.",Acute Appendicitis,K35.80
+112,"Patient with acute RLQ abdominal distress, peritonism, and elevated WBC. Surgical consultation requested for Acute Appendicitis.",Acute Appendicitis,K35.80
+113,"Asymptomatic 52-year-old male routine blood check demonstrates total cholesterol 260 mg/dL, LDL 175 mg/dL, triglycerides 210 mg/dL. Diagnosis: Hyperlipidemia, Unspecified.","Hyperlipidemia, Unspecified",E78.5
+114,"Patient presenting for fasting lipid panel. Results show LDL 168 mg/dL and total cholesterol 245 mg/dL. Started on atorvastatin for Hyperlipidemia, Unspecified.","Hyperlipidemia, Unspecified",E78.5
+115,"60-year-old female with elevated serum lipids (LDL 180 mg/dL). No overt cardiovascular symptoms. Impression: Hyperlipidemia, Unspecified.","Hyperlipidemia, Unspecified",E78.5
+116,"Routine health check for 49-year-old male reveals high cholesterol and high triglycerides. Assessment: Hyperlipidemia, Unspecified.","Hyperlipidemia, Unspecified",E78.5
+117,"Patient presenting with hypercholesterolemia identified on wellness exam. LDL elevated at 172 mg/dL. Diagnosis: Hyperlipidemia, Unspecified.","Hyperlipidemia, Unspecified",E78.5
+118,"Female patient with abnormal lipid profile (total cholesterol 255 mg/dL). Plan: Dietary changes and statin therapy for Hyperlipidemia, Unspecified.","Hyperlipidemia, Unspecified",E78.5
+119,"55-year-old male with elevated fasting serum lipids. Diagnosis: Hyperlipidemia, Unspecified.","Hyperlipidemia, Unspecified",E78.5
+120,"Patient presenting for lab review showing LDL elevated at 165 mg/dL and HDL low. Final Assessment: Hyperlipidemia, Unspecified.","Hyperlipidemia, Unspecified",E78.5
+121,"42-year-old female presents with progressive fatigue, weight gain despite poor appetite, cold intolerance, dry skin, and constipation. TSH is elevated at 14.5 mIU/L with low free T4. Diagnosis: Hypothyroidism, Unspecified.","Hypothyroidism, Unspecified",E03.9
+122,"Patient complaining of sluggishness, cold sensitivity, brittle hair, and unexplained weight gain. Serum TSH high (12.2 mIU/L). Impression: Hypothyroidism, Unspecified.","Hypothyroidism, Unspecified",E03.9
+123,"50-year-old female with lethargy, constipation, dry skin, and elevated TSH level. Started on levothyroxine for Hypothyroidism, Unspecified.","Hypothyroidism, Unspecified",E03.9
+124,"Female presenting with fatigue, hoarseness, memory impairment, and elevated TSH (16.0 mIU/L). Assessment: Hypothyroidism, Unspecified.","Hypothyroidism, Unspecified",E03.9
+125,"Patient with clinical features of thyroid hormone deficiency and high serum TSH. Diagnosis: Hypothyroidism, Unspecified.","Hypothyroidism, Unspecified",E03.9
+126,"38-year-old female presenting with menstrual irregularities, weight gain, and cold intolerance. Labs confirm high TSH. Impression: Hypothyroidism, Unspecified.","Hypothyroidism, Unspecified",E03.9
+127,"Patient presenting for fatigue evaluation. Lab panel reveals low free T4 and high TSH. Assessment: Hypothyroidism, Unspecified.","Hypothyroidism, Unspecified",E03.9
+128,"Female patient with fatigue, dry skin, slow heart rate, and high TSH. Final Diagnosis: Hypothyroidism, Unspecified.","Hypothyroidism, Unspecified",E03.9
+129,"67-year-old male presents with sudden irregular heart palpitations, lightheadedness, and shortness of breath. ECG demonstrates irregularly irregular rhythm with absent P waves. Diagnosis: Atrial Fibrillation.",Atrial Fibrillation,I48.91
+130,Patient complaining of fluttering in chest and fatigue. ECG shows atrial fibrillation with rapid ventricular response (RVR 130 bpm). Impression: Atrial Fibrillation.,Atrial Fibrillation,I48.91
+131,71-year-old female presenting with dizziness and irregular pulse on exam. ECG confirms Atrial Fibrillation.,Atrial Fibrillation,I48.91
+132,Male patient with episodic palpitations and irregular cardiac rhythm. Holter monitoring confirms paroxysmal Atrial Fibrillation.,Atrial Fibrillation,I48.91
+133,Patient presenting with fatigue and irregularly irregular pulse. ECG shows absent P waves and variable RR intervals. Assessment: Atrial Fibrillation.,Atrial Fibrillation,I48.91
+134,65-year-old female presenting with dyspnea and palpitations. ECG confirms Atrial Fibrillation.,Atrial Fibrillation,I48.91
+135,Male presenting with chest fluttering and lightheadedness. Rhythm strip confirms Atrial Fibrillation.,Atrial Fibrillation,I48.91
+136,Patient found to have irregular pulse on routine exam. ECG demonstrates Atrial Fibrillation.,Atrial Fibrillation,I48.91
+137,"64-year-old male presents with acute onset right-sided facial droop, right arm weakness, and dysarthria. Brain MRI confirms acute ischemic lesion in left MCA territory. Diagnosis: Cerebral Infarction (Ischemic Stroke).",Cerebral Infarction (Ischemic Stroke),I63.9
+138,Patient presenting with sudden left hemiparesis and facial weakness. Head CT rules out hemorrhage; diffusion MRI shows acute infarct. Impression: Cerebral Infarction (Ischemic Stroke).,Cerebral Infarction (Ischemic Stroke),I63.9
+139,70-year-old female with acute onset slurred speech and right hand numbness. Imaging confirms acute ischemic stroke. Assessment: Cerebral Infarction (Ischemic Stroke).,Cerebral Infarction (Ischemic Stroke),I63.9
+140,Male patient arriving in emergency with sudden onset aphasia and right-sided hemiplegia consistent with cerebral ischemia. Diagnosis: Cerebral Infarction (Ischemic Stroke).,Cerebral Infarction (Ischemic Stroke),I63.9
+141,68-year-old patient presenting with acute neurological deficits and cytotoxic edema on MRI. Impression: Cerebral Infarction (Ischemic Stroke).,Cerebral Infarction (Ischemic Stroke),I63.9
+142,Female patient presenting with sudden left-sided weakness and sensory loss. Neuroimaging confirms acute ischemic stroke. Assessment: Cerebral Infarction (Ischemic Stroke).,Cerebral Infarction (Ischemic Stroke),I63.9
+143,"Male presenting with acute onset balance loss, ataxia, and focal weakness. MRI demonstrates cerebellar infarction. Diagnosis: Cerebral Infarction (Ischemic Stroke).",Cerebral Infarction (Ischemic Stroke),I63.9
+144,Patient with acute neurological deficit caused by focal cerebral vascular occlusion. Final Diagnosis: Cerebral Infarction (Ischemic Stroke).,Cerebral Infarction (Ischemic Stroke),I63.9
+145,"55-year-old female presents with spreading erythema, warmth, swelling, and tenderness over the right lower leg with poorly demarcated borders and low-grade fever. Diagnosis: Cellulitis, Unspecified.","Cellulitis, Unspecified",L03.90
+146,"Patient presenting with red, swollen, painful area on left forearm following a minor scratch. Physical exam shows local heat and skin erythema. Impression: Cellulitis, Unspecified.","Cellulitis, Unspecified",L03.90
+147,"62-year-old male with lower extremity erythema, warmth, edema, and localized pain. Assessment: Cellulitis, Unspecified.","Cellulitis, Unspecified",L03.90
+148,"Female patient presenting with acute skin inflammation, redness, and edema of right foot. Diagnosis: Cellulitis, Unspecified.","Cellulitis, Unspecified",L03.90
+149,"Patient presenting with painful, warm, red skin plaque on right calf without abscess formation. Impression: Cellulitis, Unspecified.","Cellulitis, Unspecified",L03.90
+150,"48-year-old male complaining of localized leg swelling, heat, and expanding red rash. Diagnosis: Cellulitis, Unspecified.","Cellulitis, Unspecified",L03.90
+151,"Patient presenting with lower leg skin redness, tenderness, and warmth responsive to oral antibiotics. Assessment: Cellulitis, Unspecified.","Cellulitis, Unspecified",L03.90
+152,"Female with localized skin erythema, fever, and soft tissue tenderness. Final Diagnosis: Cellulitis, Unspecified.","Cellulitis, Unspecified",L03.90
+153,"29-year-old female presents with recurrent throbbing unilateral headache accompanied by severe nausea, photophobia, and phonophobia lasting 24 hours. Diagnosis: Migraine, Unspecified.","Migraine, Unspecified",G43.909
+154,"Patient reporting episodic pounding hemicranial pain preceded by visual aura. Symptoms aggravated by physical activity. Impression: Migraine, Unspecified.","Migraine, Unspecified",G43.909
+155,"32-year-old female with history of severe unilateral headaches with sensitivity to light and sound. Assessment: Migraine, Unspecified.","Migraine, Unspecified",G43.909
+156,"Patient presenting with intense throbbing headache, nausea, and vomiting responsive to triptans. Diagnosis: Migraine, Unspecified.","Migraine, Unspecified",G43.909
+157,"Young adult female reporting disabling unilateral headaches occurring twice monthly. Impression: Migraine, Unspecified.","Migraine, Unspecified",G43.909
+158,"Patient complaining of pulsatile headache associated with visual scotoma and photophobia. Diagnosis: Migraine, Unspecified.","Migraine, Unspecified",G43.909
+159,"Female patient presenting with acute unilateral throbbing headache relieved by sleep in a dark room. Assessment: Migraine, Unspecified.","Migraine, Unspecified",G43.909
+160,"Patient with recurrent moderate-to-severe throbbing headache with nausea. Final Diagnosis: Migraine, Unspecified.","Migraine, Unspecified",G43.909
+161,"35-year-old male presents with acute onset cough lasting 10 days, chest wall soreness, and low-grade fever following a viral upper respiratory infection. Lungs clear to auscultation without consolidation. Diagnosis: Acute Bronchitis.",Acute Bronchitis,J20.9
+162,"Patient complaining of persistent dry-to-mucopurulent cough, retrosternal burning, and mild fever. Lung imaging normal. Impression: Acute Bronchitis.",Acute Bronchitis,J20.9
+163,40-year-old female with cough for 1 week following common cold. Rhonchi clearing with cough. Assessment: Acute Bronchitis.,Acute Bronchitis,J20.9
+164,"Patient presenting with self-limiting cough, chest discomfort, and normal chest X-ray. Diagnosis: Acute Bronchitis.",Acute Bronchitis,J20.9
+165,"Male patient with acute tracheobronchial inflammation, cough, and absence of pneumonia signs. Impression: Acute Bronchitis.",Acute Bronchitis,J20.9
+166,"Female presenting with post-viral cough, chest soreness, and mild dyspnea. Diagnosis: Acute Bronchitis.",Acute Bronchitis,J20.9
+167,Patient complaining of 7-day history of hacking cough and low-grade fever. Lungs reveal scattered rhonchi. Assessment: Acute Bronchitis.,Acute Bronchitis,J20.9
+168,Male patient with acute onset cough without underlying chronic lung disease. Final Diagnosis: Acute Bronchitis.,Acute Bronchitis,J20.9
+169,"34-year-old male presents with sudden fever, dry cough, severe fatigue, loss of taste (ageusia), and loss of smell (anosmia). RT-PCR test positive for SARS-CoV-2. Diagnosis: COVID-19.",COVID-19,U07.1
+170,"Patient complaining of fever, shortness of breath, body aches, and positive rapid antigen test for SARS-CoV-2. Impression: COVID-19.",COVID-19,U07.1
+171,"45-year-old female presenting with acute flu-like illness, anosmia, and positive COVID-19 PCR. Assessment: COVID-19.",COVID-19,U07.1
+172,"Patient presenting with viral syndrome, cough, fever, and documented SARS-CoV-2 infection. Diagnosis: COVID-19.",COVID-19,U07.1
+173,"Male patient presenting with acute fever, fatigue, dry cough, and positive nasal swab for SARS-CoV-2. Impression: COVID-19.",COVID-19,U07.1
+174,"Female presenting with myalgias, loss of smell, fever, and confirmed SARS-CoV-2 PCR. Diagnosis: COVID-19.",COVID-19,U07.1
+175,"Patient with upper respiratory symptoms, fever, and SARS-CoV-2 antigen positivity. Assessment: COVID-19.",COVID-19,U07.1
+176,"Patient presenting with cough, fever, fatigue, and positive COVID-19 nucleic acid amplification test. Final Diagnosis: COVID-19.",COVID-19,U07.1
+177,"26-year-old female presents with abrupt onset of high fever (102.5 F), severe myalgias, headache, non-productive cough, and sore throat. Rapid influenza nasal swab positive for Influenza A. Diagnosis: Influenza.",Influenza,J11.1
+178,"Patient presenting with acute fever, chills, widespread muscle aches, and viral symptoms. Rapid flu test positive. Impression: Influenza.",Influenza,J11.1
+179,"31-year-old male complaining of sudden chills, fever, body aches, and dry cough during peak flu season. Assessment: Influenza.",Influenza,J11.1
+180,"Patient presenting with high fever, sore throat, extreme fatigue, and headache. Confirmed Influenza.",Influenza,J11.1
+181,Female patient presenting with acute febrile respiratory illness and positive nasal swab for Influenza.,Influenza,J11.1
+182,"Male presenting with rapid onset myalgias, fever, and clear lungs. Diagnosis: Influenza.",Influenza,J11.1
+183,Patient complaining of flu-like illness with high fever and muscle aches. Assessment: Influenza.,Influenza,J11.1
+184,Young adult with sudden systemic febrile illness responsive to oseltamivir. Final Diagnosis: Influenza.,Influenza,J11.1
+185,"62-year-old female presents with chronic deep aching pain and stiffness in both knees, worsened by weight-bearing and relieved by rest. Joint X-rays show joint space narrowing and osteophytes. Diagnosis: Osteoarthritis, Unspecified.","Osteoarthritis, Unspecified",M19.90
+186,"Patient complaining of chronic hip joint pain, morning stiffness lasting < 30 minutes, and crepitus on physical exam. Impression: Osteoarthritis, Unspecified.","Osteoarthritis, Unspecified",M19.90
+187,"68-year-old male presenting with chronic knee joint pain, crepitus, and joint space narrowing on radiographs. Assessment: Osteoarthritis, Unspecified.","Osteoarthritis, Unspecified",M19.90
+188,"Female patient presenting with mechanical knee pain, bony enlargement of PIP/DIP joints (Heberden nodes). Diagnosis: Osteoarthritis, Unspecified.","Osteoarthritis, Unspecified",M19.90
+189,"Patient with weight-bearing joint pain, articular stiffness, and radiographic osteophytosis. Impression: Osteoarthritis, Unspecified.","Osteoarthritis, Unspecified",M19.90
+190,"70-year-old male with progressive knee joint pain and joint space loss. Assessment: Osteoarthritis, Unspecified.","Osteoarthritis, Unspecified",M19.90
+191,"Female presenting with degenerative joint pain in hands and knees without systemic inflammatory markers. Diagnosis: Osteoarthritis, Unspecified.","Osteoarthritis, Unspecified",M19.90
+192,"Patient with chronic joint pain, morning stiffness < 15 mins, and non-inflammatory synovial fluid. Final Diagnosis: Osteoarthritis, Unspecified.","Osteoarthritis, Unspecified",M19.90
+193,"44-year-old female presents with symmetrical joint pain, swelling, and warmth in the MCP and PIP joints of both hands, with morning stiffness lasting > 1 hour. Rheumatoid factor (RF) and anti-CCP antibodies positive. Diagnosis: Rheumatoid Arthritis.",Rheumatoid Arthritis,M06.9
+194,"Patient presenting with chronic polyarthritis affecting small joints of hands bilaterally, elevated ESR, and positive anti-CCP. Impression: Rheumatoid Arthritis.",Rheumatoid Arthritis,M06.9
+195,"50-year-old female with symmetrical joint swelling, morning stiffness > 60 minutes, and elevated CRP/RF. Assessment: Rheumatoid Arthritis.",Rheumatoid Arthritis,M06.9
+196,"Patient complaining of wrist and MCP joint inflammation, subcutaneous nodules, and anti-CCP positivity. Diagnosis: Rheumatoid Arthritis.",Rheumatoid Arthritis,M06.9
+197,"Female presenting with systemic inflammatory polyarthritis, fatigue, and symmetrical joint deformities. Impression: Rheumatoid Arthritis.",Rheumatoid Arthritis,M06.9
+198,46-year-old female with symmetrical hand polyarthritis and positive serum rheumatoid factor. Diagnosis: Rheumatoid Arthritis.,Rheumatoid Arthritis,M06.9
+199,"Patient with persistent symmetrical inflammatory arthritis, prolonged morning stiffness, and elevated inflammatory markers. Assessment: Rheumatoid Arthritis.",Rheumatoid Arthritis,M06.9
+200,Female patient presenting with chronic small-joint polyarthritis and positive anti-CCP titer. Final Diagnosis: Rheumatoid Arthritis.,Rheumatoid Arthritis,M06.9

@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "category": "Diabetes",
+      "rule": "Type 2 Diabetes Mellitus without complications should be coded as E11.9. Do not confuse with Type 1 Diabetes Mellitus (E10.9) unless explicitly documented as insulin-dependent type 1 or juvenile-onset."
+    },
+    {
+      "category": "Hypertension",
+      "rule": "Essential (primary) hypertension without secondary causes or complications is coded as I10."
+    },
+    {
+      "category": "Respiratory",
+      "rule": "Asthma without chronic obstructive pulmonary disease (COPD) should be coded under J45 series (e.g., J45.909). COPD without asthma should be coded as J44.9. If asthma is assigned a J44 code, it is an inconsistency."
+    },
+    {
+      "category": "Pneumonia",
+      "rule": "Unspecified bacterial or infectious pneumonia without documented viral/organism specificity is coded as J18.9."
+    },
+    {
+      "category": "Code Validation",
+      "rule": "The proposed ICD code must exist in the project's ICD lookup table. Empty, missing, or unmapped codes are invalid."
+    }
+  ]
+}

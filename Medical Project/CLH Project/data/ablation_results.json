@@ -1,0 +1,62 @@
+{
+  "model": "gemini-3.6-flash",
+  "framework": "Zero-Shot Single-Prompt (Full KB Access)",
+  "dataset": "data/clinical_dataset.csv (Synthetic Clinical Vignettes)",
+  "wall_elapsed_seconds": 9.65,
+  "metrics": {
+    "total_cases": 1,
+    "correct_predictions": 1,
+    "incorrect_predictions": 0,
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_score_macro": 1.0,
+    "per_class": {
+      "E11.9": {
+        "support": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+      }
+    },
+    "confusion_matrix": {
+      "E11.9": {
+        "E11.9": 1
+      }
+    },
+    "latency_seconds": {
+      "mean": 9.6498,
+      "std": 0.0,
+      "median": 9.6498,
+      "unit": "seconds per clinical note (pure API execution)"
+    },
+    "tokens_per_note": {
+      "prompt_tokens_mean": 1022,
+      "candidates_tokens_mean": 93,
+      "thoughts_tokens_mean": 702,
+      "total_tokens_mean": 1817,
+      "total_tokens_all_notes": 1817
+    }
+  },
+  "detailed_results": [
+    {
+      "id": 1,
+      "ground_truth_disease": "Type 2 Diabetes Mellitus",
+      "ground_truth_icd": "E11.9",
+      "predicted_disease": "Type 2 Diabetes Mellitus",
+      "predicted_icd": "E11.9",
+      "match": true,
+      "api_latency_seconds": 9.6498,
+      "tokens": {
+        "prompt_tokens": 1022,
+        "candidates_tokens": 93,
+        "thoughts_tokens": 702,
+        "total_tokens": 1817
+      },
+      "error": null
+    }
+  ]
+}

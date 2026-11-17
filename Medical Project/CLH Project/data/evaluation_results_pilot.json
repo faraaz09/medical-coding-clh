@@ -1,0 +1,44 @@
+{
+  "metrics": {
+    "total_cases": 3,
+    "correct_predictions": 3,
+    "incorrect_predictions": 0,
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_score_macro": 1.0
+  },
+  "elapsed_seconds": 9.38,
+  "detailed_results": [
+    {
+      "id": 1,
+      "ground_truth_disease": "Type 2 Diabetes Mellitus",
+      "ground_truth_icd": "E11.9",
+      "predicted_disease": "Type 2 Diabetes Mellitus",
+      "predicted_icd": "E11.9",
+      "match": true,
+      "status": "validated",
+      "error": null
+    },
+    {
+      "id": 2,
+      "ground_truth_disease": "Type 2 Diabetes Mellitus",
+      "ground_truth_icd": "E11.9",
+      "predicted_disease": "Type 2 Diabetes Mellitus",
+      "predicted_icd": "E11.9",
+      "match": true,
+      "status": "validated",
+      "error": null
+    },
+    {
+      "id": 3,
+      "ground_truth_disease": "Type 2 Diabetes Mellitus",
+      "ground_truth_icd": "E11.9",
+      "predicted_disease": "Type 2 Diabetes Mellitus",
+      "predicted_icd": "E11.9",
+      "match": true,
+      "status": "validated",
+      "error": null
+    }
+  ]
+}
